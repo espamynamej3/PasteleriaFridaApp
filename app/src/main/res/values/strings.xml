@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">fridabardepostres</string>
+    <string name="frida_bar_de_postres">Frida: Bar De Postres</string>
+    <string name="txt_torta_helada" />
+    <string name="txt_Tortas_Heladas" />
+    <string name="txt_Torta_Heladas">Tortas Heladas</string>
+    <string name="txt_Descripcion_helada">Torta 3 chocolates: Intenso, suave, cremoso.</string>
+    <string name="txt_precio_helada">Desde 100Bs</string>
+</resources>
